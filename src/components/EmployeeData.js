@@ -1,4 +1,5 @@
 import React from "react";
+import "./styles/Data.css";
 
 function Employees(props) {
   // console.log(props)

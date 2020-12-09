@@ -69,7 +69,7 @@ class EmployeeContainer extends Component {
     return (
       <Container>
         <Row>
-          <Col size="md-4">
+          <Col size="md-12">
             <Card heading="Search">
               <SearchForm
                 employee={this.state.employeeList}
@@ -79,7 +79,7 @@ class EmployeeContainer extends Component {
           </Col>
         </Row>
         <Row>
-          <Col size="md-8">
+          <Col size="md-12">
             <Card
               
             >
