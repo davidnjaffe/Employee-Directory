@@ -4,6 +4,8 @@
 
 Employee directory using React with seperate UI components
 
+Try the working App: https://employee-info-directory.herokuapp.com/
+
 ![Employee Directory Demo](./assets/app-overview.png)
 ![Employee Directory Demo](./assets/Search-function.png)
 ![Employee Directory Demo](./assets/React%20App.gif)
