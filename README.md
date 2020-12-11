@@ -3,6 +3,8 @@
 ## Description 
 
 Employee directory using React with seperate UI components
+
+![Employee Directory Demo](./assets/app-overview.png)
                 
 ![GitHub License](https://img.shields.io/badge/license-MIT-green.svg)
 
