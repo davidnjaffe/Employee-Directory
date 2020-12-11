@@ -5,6 +5,8 @@
 Employee directory using React with seperate UI components
 
 ![Employee Directory Demo](./assets/app-overview.png)
+![Employee Directory Demo](./assets/Search-function.png)
+![Employee Directory Demo](./assets/React%20App.gif)
                 
 ![GitHub License](https://img.shields.io/badge/license-MIT-green.svg)
 
